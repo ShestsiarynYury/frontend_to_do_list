@@ -46,7 +46,7 @@ const FormTaskDTO = (props) => {
                             <div class="control">
                                 <label>
                                     ready:
-                                    <input id="readyTaskDTO" type="checkbox" name="ready" checked={props.taskDTO.ready && true} />
+                                    <input id="readyTaskDTO" type="checkbox" name="ready" defaultChecked={props.taskDTO.ready && true} />
                                 </label>
                             </div>
                         </>
