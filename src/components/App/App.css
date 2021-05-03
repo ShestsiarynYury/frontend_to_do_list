@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+#modal-bar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0.5em auto;
+}
+
+#page-bar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0.5em auto;
+}
